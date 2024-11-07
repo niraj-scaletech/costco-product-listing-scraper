@@ -1,3 +1,3 @@
-import GetGoogleLinks from "./index";
+import costcoProductScraper from "./index";
 
-GetGoogleLinks({ searches: `crawlora\nscaletech` });
+costcoProductScraper({ searches: `milk` });
